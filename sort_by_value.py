@@ -7,3 +7,4 @@ tmp=sorted(tmp)
 print(tmp)
 tmp=sorted(tmp,reverse=True)
 print(tmp)
+foor k,v in d,item jgkjbcjgf
